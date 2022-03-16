@@ -23,6 +23,8 @@ import org.springframework.web.servlet.view.RedirectView;
  * We can then return data to the user via a `View`. A view is just a HTML page which can contain Java code. This is called Java Server Pages or JSP.
  * The view, which is also known as a 'Template' will be compiled and the result of the Java code will be included in the HTML which is returned to the user in their
  * web browser.
+ *
+ * Next steps: Try to add a new controller which allows the user to see Users which are stored in the database.
  * */
 
 @Controller

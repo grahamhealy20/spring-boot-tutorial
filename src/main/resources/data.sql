@@ -1,0 +1,2 @@
+INSERT INTO books (isbn, name, author) VALUES ("0-1951-9935-9", "Graham's guide to Java", "Graham");
+INSERT INTO books (isbn, name, author) VALUES ("0-3856-1959-6", "Graham's other guide to Java", "Graham");
